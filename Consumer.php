@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sixstar-Peter
- * Date: 2019/1/12
- * Time: 21:49
- */
-
 //消费任务
 $redis = new \Redis();
 $redis->connect('127.0.0.1', 6379);

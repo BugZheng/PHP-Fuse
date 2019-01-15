@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sixstar-Peter
- * Date: 2019/1/10
- * Time: 23:02
- */
 //捕获异常
 class  CircuitBreak{
 
